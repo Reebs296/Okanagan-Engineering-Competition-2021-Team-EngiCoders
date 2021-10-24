@@ -1,5 +1,4 @@
 import random
-from typing import Tuple
 #import gui library
 import tkinter as tk
 
@@ -224,9 +223,6 @@ def main():
             main() 
         
         game_window.mainloop()
-
-
-
 
 if __name__ == "__main__":
     main()
